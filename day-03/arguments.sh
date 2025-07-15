@@ -9,7 +9,7 @@ name="moht"
 echo "my name is ${name}"
 
 echo "what is your name write it in input : "
-read name
+read -p "enter you name " name
 echo "welcome $name"
 
 #--------------------------arguemtns example ---------------
